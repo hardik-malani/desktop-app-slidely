@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SlideLy\\frontend\\GoogleFormClone\\GoogleForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A82BC7-A28D-4CA5-85F3-3C7390F75C15}|GoogleForm.vbproj|d:\\slidely\\frontend\\googleformclone\\googleform\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B1A82BC7-A28D-4CA5-85F3-3C7390F75C15}|GoogleForm.vbproj|solutionrelative:viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A82BC7-A28D-4CA5-85F3-3C7390F75C15}|GoogleForm.vbproj|d:\\slidely\\frontend\\googleformclone\\googleform\\viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B1A82BC7-A28D-4CA5-85F3-3C7390F75C15}|GoogleForm.vbproj|solutionrelative:viewsubmissionsform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A82BC7-A28D-4CA5-85F3-3C7390F75C15}|GoogleForm.vbproj|d:\\slidely\\frontend\\googleformclone\\googleform\\createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B1A82BC7-A28D-4CA5-85F3-3C7390F75C15}|GoogleForm.vbproj|solutionrelative:createsubmissionform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1A82BC7-A28D-4CA5-85F3-3C7390F75C15}|GoogleForm.vbproj|d:\\slidely\\frontend\\googleformclone\\googleform\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B1A82BC7-A28D-4CA5-85F3-3C7390F75C15}|GoogleForm.vbproj|solutionrelative:mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewSubmissionsForm.vb",
+              "DocumentMoniker": "D:\\SlideLy\\frontend\\GoogleFormClone\\GoogleForm\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "ViewSubmissionsForm.vb",
+              "ToolTip": "D:\\SlideLy\\frontend\\GoogleFormClone\\GoogleForm\\ViewSubmissionsForm.vb",
+              "RelativeToolTip": "ViewSubmissionsForm.vb",
+              "ViewState": "AQIAACgAAAAAAAAAAAAiwI0AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T01:38:08.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewSubmissionsForm.vb [Design]",
+              "DocumentMoniker": "D:\\SlideLy\\frontend\\GoogleFormClone\\GoogleForm\\ViewSubmissionsForm.vb",
+              "RelativeDocumentMoniker": "ViewSubmissionsForm.vb",
+              "ToolTip": "D:\\SlideLy\\frontend\\GoogleFormClone\\GoogleForm\\ViewSubmissionsForm.vb [Design]",
+              "RelativeToolTip": "ViewSubmissionsForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T01:34:22.983Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateSubmissionForm.vb [Design]",
+              "DocumentMoniker": "D:\\SlideLy\\frontend\\GoogleFormClone\\GoogleForm\\CreateSubmissionForm.vb",
+              "RelativeDocumentMoniker": "CreateSubmissionForm.vb",
+              "ToolTip": "D:\\SlideLy\\frontend\\GoogleFormClone\\GoogleForm\\CreateSubmissionForm.vb [Design]",
+              "RelativeToolTip": "CreateSubmissionForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T01:34:16.587Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.vb [Design]",
+              "DocumentMoniker": "D:\\SlideLy\\frontend\\GoogleFormClone\\GoogleForm\\MainForm.vb",
+              "RelativeDocumentMoniker": "MainForm.vb",
+              "ToolTip": "D:\\SlideLy\\frontend\\GoogleFormClone\\GoogleForm\\MainForm.vb [Design]",
+              "RelativeToolTip": "MainForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-19T01:34:13.085Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
