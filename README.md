@@ -14,7 +14,7 @@ Follow these instructions to set up and run the frontend on your local machine.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hardik-malani/frontend-slidely.git
+   git clone https://github.com/hardik-malani/desktop-app-slidely.git
    cd frontend-slidely
 
 2. Open the project in Visual Studio:
@@ -31,7 +31,7 @@ Follow these instructions to set up and run the frontend on your local machine.
 ## File Structure
 
 ```plaintext
-frontend-slidely/
+desktop-app-slidely/
 ├── My Project/
 │   └── [project configuration files]
 ├── CreateSubmissionForm.vb
