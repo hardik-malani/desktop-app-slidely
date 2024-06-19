@@ -1,10 +1,10 @@
-# Submission Frontend
+# Submission Desktop App
 
-This repository contains the frontend for viewing and managing submissions in a desktop application. The frontend is built using VB.NET in Visual Studio.
+This repository contains the frontend for viewing and managing submissions in a desktop application. The Desktop App is built using VB.NET in Visual Studio.
 
 ## Getting Started
 
-Follow these instructions to set up and run the frontend on your local machine.
+Follow these instructions to set up and run the Desktop App on your local machine.
 
 ### Prerequisites
 
