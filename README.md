@@ -15,7 +15,7 @@ Follow these instructions to set up and run the frontend on your local machine.
 1. Clone the repository:
    ```bash
    git clone https://github.com/hardik-malani/desktop-app-slidely.git
-   cd frontend-slidely
+   cd desktop-app-slidely
 
 2. Open the project in Visual Studio:
 
